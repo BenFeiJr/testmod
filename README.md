@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+参考
+https://github.com/umijs/hox/blob/master/README-cn.md
+https://stook-cn.now.sh/
+https://github.com/nanxiaobei/flooks/blob/master/README.zh-CN.md
+https://juejin.cn/post/6844903904040189960
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
